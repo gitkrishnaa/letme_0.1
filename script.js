@@ -19,6 +19,20 @@ div1.appendChild(div2);
 
 let div3=document.createElement("div");
 div1.appendChild(div3);
+
+
+
+
+
+const images_link=[
+  "17133d04c09fd8f8.avif",
+  "2cdd45aa5ada2b9c.avif",
+  "a19209cb56097338.avif",
+  "bd6929145770dc5c.avif",
+  "d2736ebfd1992703.avif",
+  "eb6363de5bcdfbf4.avif",
+
+ ];
 let img1=document.createElement("IMG");
 div2.appendChild(img1);
 img1.setAttribute("src","https://raw.githubusercontent.com/gitkrishnaa/letme_0.1/main/hotel_img/17133d04c09fd8f8.avif")
@@ -27,9 +41,19 @@ img1.setAttribute("height", "100%");
 img1.setAttribute("alt", "The Pulpit Rock");
 
 for(let j=1;j<6;j++){
-let div3_1=document.createElement("div");
-div3.appendChild(div3_1);
+let div3_img=document.createElement("IMG");
+div3.appendChild(div3_img);
+div3_img.setAttribute("src",`https://raw.githubusercontent.com/gitkrishnaa/letme_0.1/main/hotel_img/${images_link[j]}`)
+
+div3_img.addEventListener("click",()=>{
+
+img1.setAttribute("src",div3_img.src)
+
+})
 }
+
+
+// title
 let div4=document.createElement("div");
 div1.appendChild(div4);
 
@@ -52,7 +76,7 @@ if(window.location==="https://letroom.in/data.json"){
 else{
  
   console.log(window.location.href)
-  console.log("not work2")
+  console.log("not work3")
 }
  
   
