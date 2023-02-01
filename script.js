@@ -46,7 +46,7 @@ div1.appendChild(div4);
   } );
 
 if(window.location=="https://letroom.in/data.json"){
-  window.location="ok";
+  window.location="https://letroom.in";
   alert("it not work")
 } 
 else{
