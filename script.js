@@ -52,7 +52,7 @@ if(window.location=="https://letroom.in/data.json"){
 else{
  
   console.log(window.location.href)
-  console.log("not work")
+  console.log("not work2")
 }
  
   
