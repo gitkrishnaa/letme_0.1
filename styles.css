@@ -30,10 +30,29 @@ font-size: 20px;
 text-align: center;
 }
 #search1>button{
- width: 45px;
- height: 35px;
+ width: 20%;
+ height: 33px;
  border-radius: 20px;
  border: 1px solid grey;
  background-color: white;
 
+}
+#ad1{
+  margin-top: 10px;
+  /* padding: 10px; */
+display: flex;
+justify-content: center;
+align-items: center;
+width: 100%;
+}
+#ad1>div{
+  display: flex;
+  width: 90%;
+  background-color: aqua;
+  height: 150px;
+  }
+#main>div{
+width: 100px;
+height: 100ox;
+background-color: aqua;
 }
