@@ -51,8 +51,16 @@ width: 100%;
   background-color: aqua;
   height: 150px;
   }
+  #main{
+    margin-top: 5px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
 #main>div{
-width: 100px;
-height: 100ox;
-background-color: aqua;
+  margin: 5px;
+width: 90%;
+height: 50vw;
+background-color: rgb(0, 17, 255);
 }

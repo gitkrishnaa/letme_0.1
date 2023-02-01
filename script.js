@@ -10,7 +10,7 @@ console.log(json)
 for(let i=0;i<json.length;i++){
   
 let a1=document.createElement("div");
-x.appendChild(a1)
+x.appendChild(a1);
 
 
 
