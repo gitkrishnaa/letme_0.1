@@ -1,3 +1,122 @@
-{
-  "employees":"krishna"
-  }
+[
+{"title":"Boys loz",
+  "images_link":[],
+  "location":"near station",
+  "description":"we are serving customer from 5 year with very good relation and enviroment is good",
+  "price":500,
+  "facility":[
+  {"wifi":"none"},
+  {"mess":"yes in subscription"},
+  {"light":"24 hr"},
+  {"solar":"none"}
+             ]
+},
+{"title":"krishna boys hostel",
+  "images_link":[],
+  "location":"in donar",
+  "description":"we are serving customer from 5 year with very good relation and enviroment is good",
+  "price":500,
+  "facility":[
+  {"wifi":"none"},
+  {"mess":"yes in subscription"},
+  {"light":"24 hr"},
+  {"solar":"none"}
+             ]
+},
+{"title":"Bhawani girls hostel",
+  "images_link":[],
+  "location":"darbhanga tower",
+  "description":"we are serving customer from 5 year with very good relation and enviroment is good",
+  "price":500,
+  "facility":[
+  {"wifi":"none"},
+  {"mess":"yes in subscription"},
+  {"light":"24 hr"},
+  {"solar":"none"}
+             ]
+},
+{"title":"student loz",
+  "images_link":[],
+  "location":"Mlsm college newr darbhanga station",
+  "description":"we are serving customer from 5 year with very good relation and enviroment is good",
+  "price":500,
+  "facility":[
+  {"wifi":"none"},
+  {"mess":"yes in subscription"},
+  {"light":"24 hr"},
+  {"solar":"none"}
+             ]
+},
+{"title":"kamal loz",
+  "images_link":[],
+  "location":"near station",
+  "description":"we are serving customer from 5 year with very good relation and enviroment is good",
+  "price":500,
+  "facility":[
+  {"wifi":"none"},
+  {"mess":"yes in subscription"},
+  {"light":"24 hr"},
+  {"solar":"none"}
+             ]
+},
+{"title":"Boys loz",
+  "images_link":[],
+  "location":"near station",
+  "description":"we are serving customer from 5 year with very good relation and enviroment is good",
+  "price":500,
+  "facility":[
+  {"wifi":"none"},
+  {"mess":"yes in subscription"},
+  {"light":"24 hr"},
+  {"solar":"none"}
+             ]
+},
+{"title":"Boys loz",
+  "images_link":[],
+  "location":"near station",
+  "description":"we are serving customer from 5 year with very good relation and enviroment is good",
+  "price":500,
+  "facility":[
+  {"wifi":"none"},
+  {"mess":"yes in subscription"},
+  {"light":"24 hr"},
+  {"solar":"none"}
+             ]
+},
+{"title":"Boys loz",
+  "images_link":[],
+  "location":"near station",
+  "description":"we are serving customer from 5 year with very good relation and enviroment is good",
+  "price":500,
+  "facility":[
+  {"wifi":"none"},
+  {"mess":"yes in subscription"},
+  {"light":"24 hr"},
+  {"solar":"none"}
+             ]
+},
+{"title":"Boys loz",
+  "images_link":[],
+  "location":"near station",
+  "description":"we are serving customer from 5 year with very good relation and enviroment is good",
+  "price":500,
+  "facility":[
+  {"wifi":"none"},
+  {"mess":"yes in subscription"},
+  {"light":"24 hr"},
+  {"solar":"none"}
+             ]
+},
+{"title":"Boys loz",
+  "images_link":[],
+  "location":"near station",
+  "description":"we are serving customer from 5 year with very good relation and enviroment is good",
+  "price":500,
+  "facility":[
+  {"wifi":"none"},
+  {"mess":"yes in subscription"},
+  {"light":"24 hr"},
+  {"solar":"none"}
+             ]
+}
+]
