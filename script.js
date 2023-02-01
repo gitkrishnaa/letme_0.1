@@ -45,7 +45,7 @@ let div3_img=document.createElement("IMG");
 div3.appendChild(div3_img);
 div3_img.setAttribute("src",`https://raw.githubusercontent.com/gitkrishnaa/letme_0.1/main/hotel_img/${images_link[j]}`)
 
-div3_img.addEventListener("click",()=>{
+div3_img.addEventListener("mouseover",()=>{
 
 img1.setAttribute("src",div3_img.src)
 
@@ -53,9 +53,47 @@ img1.setAttribute("src",div3_img.src)
 }
 
 
-// title
+// title and book and details button
 let div4=document.createElement("div");
 div1.appendChild(div4);
+
+const div4_title_div=document.createElement('div');
+div4.appendChild(div4_title_div);
+const div4_title_div_detail=document.createElement("div");
+
+const div4_title1=document.createElement("h3");
+div4_title_div_detail.appendChild(div4_title1);
+div4_title1.innerText=json[i].title;
+
+const div4_title2=document.createElement("p");
+div4_title_div_detail.appendChild(div4_title2);
+div4_title2.innerText=json[i].location;
+
+
+const div4_title_div_price=document.createElement("div");
+div4_title_div_price.innerText=json[i].price
+
+
+div4_title_div.appendChild(div4_title_div_detail);
+div4_title_div.appendChild(div4_title_div_price);
+
+
+
+const div4_button_div=document.createElement('div');
+div4.appendChild(div4_button_div);
+
+const div4_button_div_detail=document.createElement("button");
+div4_button_div_detail.innerText="View Details";
+
+
+
+const div4_button_div_book=document.createElement("button");
+div4_button_div_book.innerText="BOOK"
+
+div4_button_div.appendChild(div4_button_div_detail);
+div4_button_div.appendChild(div4_button_div_book);
+
+
 
 
 
