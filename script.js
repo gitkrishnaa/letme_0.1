@@ -9,10 +9,19 @@ fetch('./data.json')
 console.log(json)
 for(let i=0;i<json.length;i++){
   
-let a1=document.createElement("div");
-x.appendChild(a1);
+let div1=document.createElement("div");
+x.appendChild(div1);
 
 
+let div2=document.createElement("div");
+div1.appendChild(div2);
+
+
+let div3=document.createElement("div");
+div1.appendChild(div3);
+
+let div4=document.createElement("div");
+div1.appendChild(div4);
 
 
 
