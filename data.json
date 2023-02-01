@@ -1,11 +1,13 @@
 [
 {"title":"Boys loz",
+  "image_gitlink":"https://raw.githubusercontent.com/gitkrishnaa/letme_0.1/main/hotel_img/",
   "images_link":[
-    "https://raw.githubusercontent.com/gitkrishnaa/letme_0.1/main/hotel_img/17133d04c09fd8f8.avif"
-
-
-
-
+   "17133d04c09fd8f8.avif",
+   "2cdd45aa5ada2b9c.avif",
+   "a19209cb56097338.avif",
+   "bd6929145770dc5c.avif",
+   "d2736ebfd1992703.avif",
+   "eb6363de5bcdfbf4.avif"
 
   ],
   "location":"near station",
