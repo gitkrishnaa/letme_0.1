@@ -55,13 +55,14 @@ width: 100%;
     margin-top: 5px;
     display: flex;
     width: 100%;
-    justify-content: center;
+    justify-content:space-evenly;
     flex-wrap: wrap;
+
   }
 #main>div{
   width: 90%;
   margin: 5px;
-max-width: 270px;
+max-width: 400px;
 height: 250px;
 background-color: rgb(0, 17, 255);
 }
